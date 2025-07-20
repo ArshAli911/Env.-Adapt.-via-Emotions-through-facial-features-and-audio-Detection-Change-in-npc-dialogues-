@@ -1,0 +1,190 @@
+2025-07-17 21:35:17,191 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-17 21:42:32,814 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 00:39:17,249 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 00:39:17,328 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-18 00:39:47,740 - vr_emotion_adaptation - INFO - Real-time audio and video capture initialized successfully.
+2025-07-18 00:39:47,746 - __main__ - INFO - Processing thread started successfully
+2025-07-18 00:39:47,747 - __main__ - ERROR - Failed to start processing thread: module 'streamlit' has no attribute 'experimental_rerun'
+2025-07-18 00:39:56,102 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 00:39:56,105 - root - ERROR - [ERROR] An unexpected error occurred while checking Ollama model availability: 'name'
+2025-07-18 12:02:59,976 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-18 12:14:52,369 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 12:14:52,376 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-18 12:14:58,218 - vr_emotion_adaptation - INFO - Real-time audio and video capture initialized successfully.
+2025-07-18 12:14:58,225 - __main__ - INFO - Processing thread started successfully
+2025-07-18 12:14:58,226 - __main__ - ERROR - Failed to start processing thread: module 'streamlit' has no attribute 'experimental_rerun'
+2025-07-18 12:15:07,382 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 12:15:07,384 - root - ERROR - [ERROR] An unexpected error occurred while checking Ollama model availability: 'name'
+2025-07-18 12:15:12,423 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 12:15:12,424 - root - ERROR - [ERROR] An unexpected error occurred while checking Ollama model availability: 'name'
+2025-07-18 22:08:29,645 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-18 22:09:35,827 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 22:09:35,828 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-18 22:09:40,307 - vr_emotion_adaptation - INFO - Real-time audio and video capture initialized successfully.
+2025-07-18 22:09:40,309 - __main__ - INFO - Processing thread started successfully
+2025-07-18 22:09:40,310 - __main__ - ERROR - Failed to start processing thread: module 'streamlit' has no attribute 'experimental_rerun'
+2025-07-18 22:09:46,463 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 22:09:46,464 - root - ERROR - [ERROR] An unexpected error occurred while checking Ollama model availability: 'name'
+2025-07-18 22:09:51,553 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 22:09:51,553 - root - ERROR - [ERROR] An unexpected error occurred while checking Ollama model availability: 'name'
+2025-07-18 22:14:39,753 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 22:14:39,811 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-18 22:17:24,773 - vr_emotion_adaptation - ERROR - Could not read frame from webcam.
+2025-07-18 22:17:25,243 - vr_emotion_adaptation - WARNING - Real-time audio and/or video capture failed to initialize fully.
+2025-07-18 22:17:25,247 - __main__ - INFO - Processing thread started successfully
+2025-07-18 22:17:29,663 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-18 22:17:29,664 - root - ERROR - [ERROR] An unexpected error occurred while checking Ollama model availability: 'name'
+2025-07-19 00:36:44,807 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:36:53,312 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:36:53,313 - utils - INFO - Ollama model 'deepseek-r1:latest' validated successfully
+2025-07-19 00:36:53,377 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-19 00:37:00,165 - vr_emotion_adaptation - ERROR - Could not read frame from webcam.
+2025-07-19 00:37:00,815 - vr_emotion_adaptation - WARNING - Real-time audio and/or video capture failed to initialize fully.
+2025-07-19 00:37:00,822 - __main__ - INFO - Processing thread started successfully
+2025-07-19 00:37:15,611 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:37:15,781 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:37:15,805 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:37:15,808 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:38:02,479 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:39:18,138 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:39:19,919 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:39:19,920 - utils - INFO - Ollama model 'deepseek-r1:latest' validated successfully
+2025-07-19 00:39:19,938 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-19 00:40:22,530 - vr_emotion_adaptation - ERROR - Could not read frame from webcam.
+2025-07-19 00:40:23,097 - vr_emotion_adaptation - WARNING - Real-time audio and/or video capture failed to initialize fully.
+2025-07-19 00:40:23,103 - __main__ - INFO - Processing thread started successfully
+2025-07-19 00:40:28,449 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:40:28,451 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:40:28,470 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:40:28,472 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:41:07,313 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:42:27,526 - vr_emotion_adaptation - ERROR - Could not read frame from webcam.
+2025-07-19 00:42:27,631 - vr_emotion_adaptation - WARNING - Real-time audio and/or video capture failed to initialize fully.
+2025-07-19 00:42:27,634 - __main__ - INFO - Processing thread started successfully
+2025-07-19 00:43:47,856 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:43:49,332 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:43:49,334 - utils - INFO - Ollama model 'deepseek-r1:latest' validated successfully
+2025-07-19 00:43:49,379 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-19 00:43:58,309 - vr_emotion_adaptation - INFO - Real-time audio and video capture initialized successfully.
+2025-07-19 00:43:58,313 - __main__ - INFO - Processing thread started successfully
+2025-07-19 00:44:03,389 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:44:03,391 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:44:03,429 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:44:03,437 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:44:41,252 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:44:41,806 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:44:41,807 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:44:41,814 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:44:41,815 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:45:17,752 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:45:18,845 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:45:18,846 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:45:18,852 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:45:18,853 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:45:42,288 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:46:00,195 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:46:00,197 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:46:00,210 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:46:00,211 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:46:42,786 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:46:44,843 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:46:44,844 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:46:44,848 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:46:44,849 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:47:40,123 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:47:40,876 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:47:40,877 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:47:40,884 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:47:40,885 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:48:21,289 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:48:21,583 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:48:21,584 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:48:21,590 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:48:21,590 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:48:57,635 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:50:44,420 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:50:46,085 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:50:46,087 - utils - INFO - Ollama model 'deepseek-r1:latest' validated successfully
+2025-07-19 00:50:46,157 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-19 00:51:06,910 - vr_emotion_adaptation - INFO - Real-time audio and video capture initialized successfully.
+2025-07-19 00:51:06,913 - __main__ - INFO - Processing thread started successfully
+2025-07-19 00:51:14,729 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:51:14,732 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:51:14,804 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:51:14,810 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:52:20,492 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:52:20,635 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:52:20,637 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:52:20,646 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:52:20,648 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:53:36,897 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:53:38,472 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:53:38,472 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:53:38,479 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:53:38,481 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:53:50,582 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:54:20,813 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:54:22,227 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:54:22,228 - utils - INFO - Ollama model 'deepseek-r1:latest' validated successfully
+2025-07-19 00:54:22,230 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-19 00:54:32,192 - vr_emotion_adaptation - INFO - Real-time audio and video capture initialized successfully.
+2025-07-19 00:54:32,196 - __main__ - INFO - Processing thread started successfully
+2025-07-19 00:54:32,623 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:54:32,624 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:54:32,629 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:54:32,630 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:55:11,684 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:55:12,034 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:55:12,035 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:55:12,043 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:55:12,044 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:55:47,065 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:55:50,184 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:55:50,185 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:55:50,194 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:55:50,197 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:56:34,838 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:56:36,319 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:56:36,320 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:56:36,327 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:56:36,328 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:58:02,171 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:58:09,944 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:58:09,945 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:58:09,961 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:58:09,962 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:59:17,177 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:59:19,143 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 00:59:19,145 - utils - INFO - Ollama model 'deepseek-r1:latest' validated successfully
+2025-07-19 00:59:19,201 - vr_emotion_adaptation - INFO - Using device: cuda
+2025-07-19 00:59:40,304 - vr_emotion_adaptation - INFO - Real-time audio and video capture initialized successfully.
+2025-07-19 00:59:40,318 - __main__ - INFO - Processing thread started successfully
+2025-07-19 00:59:48,572 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:59:48,577 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 00:59:48,588 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 00:59:48,595 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:00:42,894 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 01:00:43,361 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 01:00:43,362 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:00:43,375 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 01:00:43,376 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:01:31,183 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 01:01:31,505 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 01:01:31,507 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:01:31,516 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 01:01:31,517 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:02:13,892 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-19 01:02:14,063 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 01:02:14,064 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:02:14,068 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 01:02:14,070 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:07:54,175 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 500 Internal Server Error"
+2025-07-19 01:07:54,253 - root - ERROR - [ERROR] Unexpected error during dialogue generation: an error was encountered while running the model: CUDA error: out of memory
+  current device: 0, in function ggml_cuda_compute_forward at C:\a\ollama\ollama\ml\backend\ggml\ggml\src\ggml-cuda\ggml-cuda.cu:2366
+  err
+C:\a\ollama\ollama\ml\backend\ggml\ggml\src\ggml-cuda\ggml-cuda.cu:76: CUDA error (status code: 500)
+2025-07-19 01:08:01,327 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 01:08:01,341 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:08:01,347 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-19 01:08:01,348 - root - INFO - [INFO] Ollama model 'deepseek-r1' is available
+2025-07-19 01:10:07,358 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"

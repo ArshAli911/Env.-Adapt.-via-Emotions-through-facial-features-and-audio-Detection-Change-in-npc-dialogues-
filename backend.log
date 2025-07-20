@@ -1,0 +1,1766 @@
+2025-07-16 21:59:51,940 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 21:59:54,002 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:38,587 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:40,224 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:40,626 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:41,219 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:42,212 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:42,250 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:43,216 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:43,259 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:44,214 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:44,266 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:45,225 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:45,262 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:46,220 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:46,255 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:47,213 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:47,270 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:48,229 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:48,264 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:49,220 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:49,260 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:50,225 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:50,279 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:51,221 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:51,277 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:52,216 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:52,276 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:53,226 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:53,264 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:54,222 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:54,255 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:55,227 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:55,263 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:56,215 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:56,272 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:57,217 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:57,271 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:58,230 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:58,249 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:00:59,223 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:00:59,256 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:00,225 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:00,273 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:01,219 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:01,253 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:02,212 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:02,271 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:03,229 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:03,264 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:04,226 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:04,260 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:05,221 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:05,289 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:06,221 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:06,275 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:07,216 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:07,268 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:08,228 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:08,264 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:09,228 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:09,262 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:10,219 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:10,274 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:11,219 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:11,258 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:12,215 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:12,255 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:13,215 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:13,266 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:14,226 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:14,263 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:15,225 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:15,263 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:16,221 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:16,240 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:17,210 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:17,248 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:18,214 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:18,262 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:19,216 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:19,238 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:20,223 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:20,258 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:21,226 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:21,255 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:22,216 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:22,279 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:23,224 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:23,276 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:24,224 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:24,258 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:25,219 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:25,269 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:26,228 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:26,280 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:27,232 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:27,264 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:28,226 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:28,274 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:29,287 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:29,957 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:30,209 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:30,268 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:31,224 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:32,008 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:32,225 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:32,244 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:33,255 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:33,950 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:01:34,253 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:01:35,998 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:06,666 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:08,713 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:09,034 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:09,965 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:10,967 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:11,085 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:11,955 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:12,021 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:12,957 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:13,019 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:13,941 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:14,012 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:14,517 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:15,004 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:15,259 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:16,001 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:16,270 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:16,562 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:17,376 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:17,723 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:18,200 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:18,303 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:19,222 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:19,773 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:20,261 [DEBUG] connect_tcp.failed exception=ConnectError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))
+2025-07-16 22:03:20,855 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000023C1F2ABB60>
+2025-07-16 22:03:20,861 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:20,863 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:20,864 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:20,864 [DEBUG] send_request_body.complete
+2025-07-16 22:03:20,865 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:20,871 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:20,879 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000023C59F36850>
+2025-07-16 22:03:20,881 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:20,885 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:20,885 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:20,887 [DEBUG] send_request_body.complete
+2025-07-16 22:03:20,887 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:21,203 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:21,206 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000023C5A806710>
+2025-07-16 22:03:21,206 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:21,209 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:21,209 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:21,210 [DEBUG] send_request_body.complete
+2025-07-16 22:03:21,210 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:21,264 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:21 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:21,265 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:21 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:21,265 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:21 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:21,267 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:21,270 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:21,270 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:21,272 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:21,273 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:21,273 [DEBUG] response_closed.started
+2025-07-16 22:03:21,273 [DEBUG] response_closed.complete
+2025-07-16 22:03:21,268 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:21,276 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:21,272 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:21,277 [DEBUG] response_closed.started
+2025-07-16 22:03:21,277 [DEBUG] response_closed.complete
+2025-07-16 22:03:21,277 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:21,285 [DEBUG] response_closed.started
+2025-07-16 22:03:21,285 [DEBUG] response_closed.complete
+2025-07-16 22:03:22,260 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:22,270 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:22,282 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:22,285 [DEBUG] send_request_body.complete
+2025-07-16 22:03:22,285 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:22,287 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:22 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:22,291 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:22,301 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:22,302 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:22,309 [DEBUG] response_closed.started
+2025-07-16 22:03:22,310 [DEBUG] response_closed.complete
+2025-07-16 22:03:23,403 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:23,415 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:23,416 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:23,423 [DEBUG] send_request_body.complete
+2025-07-16 22:03:23,423 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:23,468 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:23 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:23,469 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:23,470 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:23,470 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:23,471 [DEBUG] response_closed.started
+2025-07-16 22:03:23,472 [DEBUG] response_closed.complete
+2025-07-16 22:03:24,227 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:24,229 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:24,234 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:24,235 [DEBUG] send_request_body.complete
+2025-07-16 22:03:24,235 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:24,265 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:24 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:24,266 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:24,269 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:24,270 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:24,270 [DEBUG] response_closed.started
+2025-07-16 22:03:24,270 [DEBUG] response_closed.complete
+2025-07-16 22:03:25,663 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:25,664 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:25,664 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:25,665 [DEBUG] send_request_body.complete
+2025-07-16 22:03:25,665 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:25,671 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:25 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:25,672 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:25,673 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:25,673 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:25,673 [DEBUG] response_closed.started
+2025-07-16 22:03:25,674 [DEBUG] response_closed.complete
+2025-07-16 22:03:31,577 [DEBUG] close.started
+2025-07-16 22:03:31,578 [DEBUG] close.complete
+2025-07-16 22:03:31,578 [DEBUG] close.started
+2025-07-16 22:03:31,581 [DEBUG] close.complete
+2025-07-16 22:03:31,586 [DEBUG] close.started
+2025-07-16 22:03:31,587 [DEBUG] close.complete
+2025-07-16 22:03:31,594 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:03:31,601 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000023C5A7FF950>
+2025-07-16 22:03:31,602 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:31,604 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:31,604 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:31,604 [DEBUG] send_request_body.complete
+2025-07-16 22:03:31,607 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:31,630 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:31 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:31,632 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:31,633 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:31,633 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:31,633 [DEBUG] response_closed.started
+2025-07-16 22:03:31,634 [DEBUG] response_closed.complete
+2025-07-16 22:03:32,314 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:32,320 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:32,321 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:32,324 [DEBUG] send_request_body.complete
+2025-07-16 22:03:32,327 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:32,453 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:32 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:32,454 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:32,455 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:32,456 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:32,456 [DEBUG] response_closed.started
+2025-07-16 22:03:32,456 [DEBUG] response_closed.complete
+2025-07-16 22:03:33,459 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:33,460 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:33,461 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:33,461 [DEBUG] send_request_body.complete
+2025-07-16 22:03:33,461 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:33,467 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:33 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:33,467 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:33,468 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:33,469 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:33,469 [DEBUG] response_closed.started
+2025-07-16 22:03:33,470 [DEBUG] response_closed.complete
+2025-07-16 22:03:34,214 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:34,227 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:34,228 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:34,230 [DEBUG] send_request_body.complete
+2025-07-16 22:03:34,232 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:34,268 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:34 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:34,269 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:34,271 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:34,272 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:34,274 [DEBUG] response_closed.started
+2025-07-16 22:03:34,274 [DEBUG] response_closed.complete
+2025-07-16 22:03:35,211 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:35,216 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:35,217 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:35,221 [DEBUG] send_request_body.complete
+2025-07-16 22:03:35,222 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:35,264 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:35 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:35,266 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:35,267 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:35,267 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:35,268 [DEBUG] response_closed.started
+2025-07-16 22:03:35,268 [DEBUG] response_closed.complete
+2025-07-16 22:03:36,402 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:36,405 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:36,405 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:36,406 [DEBUG] send_request_body.complete
+2025-07-16 22:03:36,406 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:36,468 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:36 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:36,468 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:36,469 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:36,469 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:36,469 [DEBUG] response_closed.started
+2025-07-16 22:03:36,470 [DEBUG] response_closed.complete
+2025-07-16 22:03:37,355 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:37,355 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:37,359 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:37,360 [DEBUG] send_request_body.complete
+2025-07-16 22:03:37,360 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:37,366 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:37 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:37,369 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:37,373 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:37,374 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:37,375 [DEBUG] response_closed.started
+2025-07-16 22:03:37,376 [DEBUG] response_closed.complete
+2025-07-16 22:03:38,981 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:38,985 [DEBUG] send_request_headers.complete
+2025-07-16 22:03:38,991 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:03:38,997 [DEBUG] send_request_body.complete
+2025-07-16 22:03:38,997 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:03:39,019 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:33:39 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:03:39,021 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:03:39,022 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:03:39,023 [DEBUG] receive_response_body.complete
+2025-07-16 22:03:39,023 [DEBUG] response_closed.started
+2025-07-16 22:03:39,024 [DEBUG] response_closed.complete
+2025-07-16 22:04:40,775 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:04:41,178 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000024DE151FE00>
+2025-07-16 22:04:41,533 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:41,917 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:42,336 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:42,337 [DEBUG] send_request_body.complete
+2025-07-16 22:04:42,337 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:42,338 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:41 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:42,340 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:42,343 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:42,344 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:42,786 [DEBUG] response_closed.started
+2025-07-16 22:04:42,789 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:04:42,790 [DEBUG] response_closed.complete
+2025-07-16 22:04:42,791 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000024DDF597890>
+2025-07-16 22:04:42,791 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:42,873 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:42,874 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:42,874 [DEBUG] send_request_body.complete
+2025-07-16 22:04:42,875 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:42,889 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:42 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:42,890 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:42,890 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:42,891 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:42,891 [DEBUG] response_closed.started
+2025-07-16 22:04:42,892 [DEBUG] response_closed.complete
+2025-07-16 22:04:43,473 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:43,476 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:43,479 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:43,482 [DEBUG] send_request_body.complete
+2025-07-16 22:04:43,483 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:43,491 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:43 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:43,493 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:43,494 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:43,495 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:43,495 [DEBUG] response_closed.started
+2025-07-16 22:04:43,495 [DEBUG] response_closed.complete
+2025-07-16 22:04:44,103 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:44,105 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:44,108 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:44,109 [DEBUG] send_request_body.complete
+2025-07-16 22:04:44,109 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:44,121 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:44 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:44,122 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:44,123 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:44,124 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:44,125 [DEBUG] response_closed.started
+2025-07-16 22:04:44,126 [DEBUG] response_closed.complete
+2025-07-16 22:04:44,296 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:44,305 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:44,305 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:44,308 [DEBUG] send_request_body.complete
+2025-07-16 22:04:44,308 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:44,411 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:44 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:44,413 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:44,413 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:44,414 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:44,414 [DEBUG] response_closed.started
+2025-07-16 22:04:44,414 [DEBUG] response_closed.complete
+2025-07-16 22:04:45,019 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:45,061 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:45,061 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:45,077 [DEBUG] send_request_body.complete
+2025-07-16 22:04:45,083 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:45,084 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:45 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:45,085 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:45,085 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:45,085 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:45,086 [DEBUG] response_closed.started
+2025-07-16 22:04:45,086 [DEBUG] response_closed.complete
+2025-07-16 22:04:45,626 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:45,665 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:45,665 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:45,666 [DEBUG] send_request_body.complete
+2025-07-16 22:04:45,666 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:45,729 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:45 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:45,738 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:45,739 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:45,740 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:45,740 [DEBUG] response_closed.started
+2025-07-16 22:04:45,741 [DEBUG] response_closed.complete
+2025-07-16 22:04:47,028 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:47,033 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:47,034 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:47,047 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:47,049 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:47,049 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:47,049 [DEBUG] send_request_body.complete
+2025-07-16 22:04:47,048 [DEBUG] send_request_body.complete
+2025-07-16 22:04:47,049 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:47,053 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:47,061 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:47 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:47,068 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:47,069 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:47,077 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:47 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:47,085 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:47,087 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:47,092 [DEBUG] response_closed.started
+2025-07-16 22:04:47,107 [DEBUG] response_closed.complete
+2025-07-16 22:04:47,095 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:47,108 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:47,109 [DEBUG] response_closed.started
+2025-07-16 22:04:47,109 [DEBUG] response_closed.complete
+2025-07-16 22:04:48,054 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:48,055 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:48,057 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:48,058 [DEBUG] send_request_body.complete
+2025-07-16 22:04:48,058 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:48,087 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:48 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:48,090 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:48,091 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:48,092 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:48,099 [DEBUG] response_closed.started
+2025-07-16 22:04:48,100 [DEBUG] response_closed.complete
+2025-07-16 22:04:48,114 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:48,117 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:48,118 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:48,123 [DEBUG] send_request_body.complete
+2025-07-16 22:04:48,125 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:48,132 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:48 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:48,133 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:48,148 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:48,149 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:48,158 [DEBUG] response_closed.started
+2025-07-16 22:04:48,159 [DEBUG] response_closed.complete
+2025-07-16 22:04:48,558 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:48,559 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:48,562 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:48,566 [DEBUG] send_request_body.complete
+2025-07-16 22:04:48,635 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:48,653 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:48 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:48,653 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:48,661 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:48,661 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:48,662 [DEBUG] response_closed.started
+2025-07-16 22:04:48,662 [DEBUG] response_closed.complete
+2025-07-16 22:04:49,625 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:49,635 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:49,635 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:49,635 [DEBUG] send_request_body.complete
+2025-07-16 22:04:49,636 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:49,723 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:49 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:49,769 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:49,781 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:49,782 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:49,791 [DEBUG] response_closed.started
+2025-07-16 22:04:49,791 [DEBUG] response_closed.complete
+2025-07-16 22:04:50,111 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:50,126 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:50,127 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:50,127 [DEBUG] send_request_body.complete
+2025-07-16 22:04:50,127 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:50,145 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:50 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:50,148 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:50,149 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:50,149 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:50,150 [DEBUG] response_closed.started
+2025-07-16 22:04:50,151 [DEBUG] response_closed.complete
+2025-07-16 22:04:50,836 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:50,853 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:50,853 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:50,853 [DEBUG] send_request_body.complete
+2025-07-16 22:04:50,853 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:50,895 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:50 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:50,920 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:50,952 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:50,954 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:50,955 [DEBUG] response_closed.started
+2025-07-16 22:04:50,968 [DEBUG] response_closed.complete
+2025-07-16 22:04:51,174 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:51,204 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:51,209 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:51,212 [DEBUG] send_request_body.complete
+2025-07-16 22:04:51,220 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:51,230 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:51 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:51,241 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:51,246 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:51,247 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:51,249 [DEBUG] response_closed.started
+2025-07-16 22:04:51,255 [DEBUG] response_closed.complete
+2025-07-16 22:04:51,584 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:51,585 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:51,586 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:51,586 [DEBUG] send_request_body.complete
+2025-07-16 22:04:51,601 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:51,684 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:51 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:51,710 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:51,710 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:51,711 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:51,711 [DEBUG] response_closed.started
+2025-07-16 22:04:51,715 [DEBUG] response_closed.complete
+2025-07-16 22:04:52,020 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:52,045 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:52,887 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:52,898 [DEBUG] send_request_body.complete
+2025-07-16 22:04:52,909 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:52,912 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:52 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:52,917 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:52,921 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:52,935 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:52,935 [DEBUG] response_closed.started
+2025-07-16 22:04:52,935 [DEBUG] response_closed.complete
+2025-07-16 22:04:52,936 [DEBUG] close.started
+2025-07-16 22:04:52,987 [DEBUG] close.complete
+2025-07-16 22:04:53,416 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:53,426 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:53,427 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:53,482 [DEBUG] send_request_body.complete
+2025-07-16 22:04:53,482 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:53,483 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:53 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:53,568 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:53,571 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:53,573 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:53,575 [DEBUG] response_closed.started
+2025-07-16 22:04:53,575 [DEBUG] response_closed.complete
+2025-07-16 22:04:54,072 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:54,074 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:54,075 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:54,075 [DEBUG] send_request_body.complete
+2025-07-16 22:04:54,076 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:54,114 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:54 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:54,115 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:54,115 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:54,118 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:54,523 [DEBUG] response_closed.started
+2025-07-16 22:04:54,528 [DEBUG] response_closed.complete
+2025-07-16 22:04:55,108 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:55,109 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:55,109 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:55,109 [DEBUG] send_request_body.complete
+2025-07-16 22:04:55,112 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:55,174 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:55 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:55,175 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:55,176 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:55,177 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:55,184 [DEBUG] response_closed.started
+2025-07-16 22:04:55,185 [DEBUG] response_closed.complete
+2025-07-16 22:04:55,857 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:55,883 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:55,884 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:55,884 [DEBUG] send_request_body.complete
+2025-07-16 22:04:55,885 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:55,918 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:55 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:55,919 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:55,929 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:55,936 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:55,944 [DEBUG] response_closed.started
+2025-07-16 22:04:55,945 [DEBUG] response_closed.complete
+2025-07-16 22:04:56,602 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:56,609 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:56,621 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:56,653 [DEBUG] send_request_body.complete
+2025-07-16 22:04:56,654 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:56,707 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:56 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:56,709 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:56,710 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:56,710 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:56,713 [DEBUG] response_closed.started
+2025-07-16 22:04:57,093 [DEBUG] response_closed.complete
+2025-07-16 22:04:57,519 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:57,527 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:57,528 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:57,528 [DEBUG] send_request_body.complete
+2025-07-16 22:04:57,528 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:57,557 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:57 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:57,558 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:57,558 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:57,559 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:57,562 [DEBUG] response_closed.started
+2025-07-16 22:04:57,571 [DEBUG] response_closed.complete
+2025-07-16 22:04:58,608 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:58,662 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:58,663 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:58,676 [DEBUG] send_request_body.complete
+2025-07-16 22:04:58,677 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:58,746 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:58 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:58,771 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:58,779 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:58,791 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:58,802 [DEBUG] response_closed.started
+2025-07-16 22:04:58,804 [DEBUG] response_closed.complete
+2025-07-16 22:04:59,547 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:59,564 [DEBUG] send_request_headers.complete
+2025-07-16 22:04:59,565 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:04:59,565 [DEBUG] send_request_body.complete
+2025-07-16 22:04:59,570 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:04:59,579 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:34:59 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:04:59,588 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:04:59,590 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:04:59,597 [DEBUG] receive_response_body.complete
+2025-07-16 22:04:59,604 [DEBUG] response_closed.started
+2025-07-16 22:04:59,608 [DEBUG] response_closed.complete
+2025-07-16 22:05:00,719 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:00,721 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:00,742 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:00,742 [DEBUG] send_request_body.complete
+2025-07-16 22:05:00,742 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:00,807 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:00 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:00,808 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:00,808 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:00,809 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:00,817 [DEBUG] response_closed.started
+2025-07-16 22:05:00,817 [DEBUG] response_closed.complete
+2025-07-16 22:05:01,919 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:01,928 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:01,929 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:01,929 [DEBUG] send_request_body.complete
+2025-07-16 22:05:01,929 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:02,429 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:02 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:02,434 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:02,434 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:02,435 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:02,435 [DEBUG] response_closed.started
+2025-07-16 22:05:02,436 [DEBUG] response_closed.complete
+2025-07-16 22:05:05,575 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:05,583 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:05,583 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:05,584 [DEBUG] send_request_body.complete
+2025-07-16 22:05:05,584 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:05,598 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:05 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:05,605 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:05,605 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:05,606 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:05,610 [DEBUG] response_closed.started
+2025-07-16 22:05:05,622 [DEBUG] response_closed.complete
+2025-07-16 22:05:05,658 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:05,666 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:05,667 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:05,667 [DEBUG] send_request_body.complete
+2025-07-16 22:05:05,688 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:06,066 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:05 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:06,067 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:06,094 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:06,096 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:06,151 [DEBUG] response_closed.started
+2025-07-16 22:05:06,152 [DEBUG] response_closed.complete
+2025-07-16 22:05:06,674 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:06,685 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:06,686 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:06,686 [DEBUG] send_request_body.complete
+2025-07-16 22:05:06,686 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:06,702 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:06 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:06,707 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:06,709 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:06,710 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:06,710 [DEBUG] response_closed.started
+2025-07-16 22:05:06,719 [DEBUG] response_closed.complete
+2025-07-16 22:05:07,721 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:07,725 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:07,725 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:07,726 [DEBUG] send_request_body.complete
+2025-07-16 22:05:07,727 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:07,770 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:07 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:07,775 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:07,794 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:07,807 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:07,818 [DEBUG] response_closed.started
+2025-07-16 22:05:07,820 [DEBUG] response_closed.complete
+2025-07-16 22:05:08,545 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:08,553 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:08,558 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:08,563 [DEBUG] send_request_body.complete
+2025-07-16 22:05:08,566 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:08,573 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:08 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:08,574 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:08,578 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:08,579 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:08,580 [DEBUG] response_closed.started
+2025-07-16 22:05:08,583 [DEBUG] response_closed.complete
+2025-07-16 22:05:09,565 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:09,566 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:09,578 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:09,578 [DEBUG] send_request_body.complete
+2025-07-16 22:05:09,578 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:09,657 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:09 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:09,663 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:09,671 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:09,679 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:09,685 [DEBUG] response_closed.started
+2025-07-16 22:05:09,686 [DEBUG] response_closed.complete
+2025-07-16 22:05:11,237 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:11,245 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:11,248 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:11,249 [DEBUG] send_request_body.complete
+2025-07-16 22:05:11,250 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:11,270 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:11 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:11,275 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:11,275 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:11,279 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:11,283 [DEBUG] response_closed.started
+2025-07-16 22:05:11,283 [DEBUG] response_closed.complete
+2025-07-16 22:05:11,567 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:11,568 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:11,568 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:11,575 [DEBUG] send_request_body.complete
+2025-07-16 22:05:11,595 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:11,633 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:11 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:11,636 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:11,638 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:11,639 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:11,640 [DEBUG] response_closed.started
+2025-07-16 22:05:11,644 [DEBUG] response_closed.complete
+2025-07-16 22:05:12,748 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:12,748 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:12,748 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:12,749 [DEBUG] send_request_body.complete
+2025-07-16 22:05:12,749 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:12,868 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:12 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:12,869 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:12,869 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:12,869 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:12,870 [DEBUG] response_closed.started
+2025-07-16 22:05:12,870 [DEBUG] response_closed.complete
+2025-07-16 22:05:13,664 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:13,668 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:13,669 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:13,669 [DEBUG] send_request_body.complete
+2025-07-16 22:05:13,670 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:13,705 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:13 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:13,707 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:13,707 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:13,708 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:13,713 [DEBUG] response_closed.started
+2025-07-16 22:05:13,717 [DEBUG] response_closed.complete
+2025-07-16 22:05:14,605 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:14,609 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:14,614 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:14,614 [DEBUG] send_request_body.complete
+2025-07-16 22:05:14,615 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:14,624 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:14 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:14,627 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:14,628 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:14,632 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:14,633 [DEBUG] response_closed.started
+2025-07-16 22:05:14,635 [DEBUG] response_closed.complete
+2025-07-16 22:05:15,508 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:15,516 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:15,521 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:15,543 [DEBUG] send_request_body.complete
+2025-07-16 22:05:15,544 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:15,553 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:15 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:15,564 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:15,566 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:15,566 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:15,571 [DEBUG] response_closed.started
+2025-07-16 22:05:15,575 [DEBUG] response_closed.complete
+2025-07-16 22:05:16,572 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:16,574 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:16,599 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:16,601 [DEBUG] send_request_body.complete
+2025-07-16 22:05:16,610 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:16,625 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:16 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:16,630 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:16,631 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:16,633 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:16,641 [DEBUG] response_closed.started
+2025-07-16 22:05:16,641 [DEBUG] response_closed.complete
+2025-07-16 22:05:17,715 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:17,715 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:17,724 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:17,725 [DEBUG] send_request_body.complete
+2025-07-16 22:05:17,728 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:17,746 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:17 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:17,748 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:17,757 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:17,759 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:17,759 [DEBUG] response_closed.started
+2025-07-16 22:05:17,760 [DEBUG] response_closed.complete
+2025-07-16 22:05:18,583 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:18,597 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:18,603 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:18,604 [DEBUG] send_request_body.complete
+2025-07-16 22:05:18,604 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:18,642 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:18 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:18,643 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:18,644 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:18,649 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:18,649 [DEBUG] response_closed.started
+2025-07-16 22:05:18,649 [DEBUG] response_closed.complete
+2025-07-16 22:05:19,505 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:19,513 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:19,520 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:19,531 [DEBUG] send_request_body.complete
+2025-07-16 22:05:19,537 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:19,546 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:19 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:19,557 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:19,558 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:19,595 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:19,602 [DEBUG] response_closed.started
+2025-07-16 22:05:19,610 [DEBUG] response_closed.complete
+2025-07-16 22:05:20,521 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:20,525 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:20,525 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:20,526 [DEBUG] send_request_body.complete
+2025-07-16 22:05:20,526 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:20,577 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:20 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:20,579 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:20,580 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:20,583 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:20,584 [DEBUG] response_closed.started
+2025-07-16 22:05:20,584 [DEBUG] response_closed.complete
+2025-07-16 22:05:21,786 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:21,794 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:21,794 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:21,796 [DEBUG] send_request_body.complete
+2025-07-16 22:05:21,798 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:21,869 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:21 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:21,869 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:21,870 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:21,873 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:21,873 [DEBUG] response_closed.started
+2025-07-16 22:05:21,874 [DEBUG] response_closed.complete
+2025-07-16 22:05:22,633 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:22,647 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:22,648 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:22,653 [DEBUG] send_request_body.complete
+2025-07-16 22:05:22,662 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:22,697 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:22 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:22,699 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:22,701 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:22,703 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:22,716 [DEBUG] response_closed.started
+2025-07-16 22:05:22,717 [DEBUG] response_closed.complete
+2025-07-16 22:05:25,891 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:25,935 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:25,936 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:25,936 [DEBUG] send_request_body.complete
+2025-07-16 22:05:25,937 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:25,963 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:25 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:25,964 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:25,964 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:25,964 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:25,964 [DEBUG] response_closed.started
+2025-07-16 22:05:25,964 [DEBUG] response_closed.complete
+2025-07-16 22:05:26,898 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:26,915 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:26,918 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:26,918 [DEBUG] send_request_body.complete
+2025-07-16 22:05:26,918 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:27,009 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:27 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:27,010 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:27,010 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:27,011 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:27,011 [DEBUG] response_closed.started
+2025-07-16 22:05:27,011 [DEBUG] response_closed.complete
+2025-07-16 22:05:27,561 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:27,563 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:27,570 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:27,574 [DEBUG] send_request_body.complete
+2025-07-16 22:05:27,586 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:27,589 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:27 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:27,594 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:27,595 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:27,595 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:27,595 [DEBUG] response_closed.started
+2025-07-16 22:05:27,597 [DEBUG] response_closed.complete
+2025-07-16 22:05:28,490 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:28,494 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:28,497 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:28,498 [DEBUG] send_request_body.complete
+2025-07-16 22:05:28,501 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:28,504 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:28 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:28,504 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:28,505 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:28,506 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:28,508 [DEBUG] response_closed.started
+2025-07-16 22:05:28,512 [DEBUG] response_closed.complete
+2025-07-16 22:05:29,862 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:29,863 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:29,863 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:29,864 [DEBUG] send_request_body.complete
+2025-07-16 22:05:29,864 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:29,872 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:29 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:29,873 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:29,874 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:29,874 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:29,874 [DEBUG] response_closed.started
+2025-07-16 22:05:29,874 [DEBUG] response_closed.complete
+2025-07-16 22:05:30,485 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:30,494 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:30,494 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:30,494 [DEBUG] send_request_body.complete
+2025-07-16 22:05:30,494 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:30,534 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:30 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:30,535 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:30,535 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:30,537 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:30,537 [DEBUG] response_closed.started
+2025-07-16 22:05:30,538 [DEBUG] response_closed.complete
+2025-07-16 22:05:31,672 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:31,673 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:31,675 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:31,676 [DEBUG] send_request_body.complete
+2025-07-16 22:05:31,679 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:31,686 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:31 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:31,687 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:31,688 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:31,689 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:31,689 [DEBUG] response_closed.started
+2025-07-16 22:05:31,690 [DEBUG] response_closed.complete
+2025-07-16 22:05:33,831 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:33,832 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:33,832 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:33,832 [DEBUG] send_request_body.complete
+2025-07-16 22:05:33,832 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:33,839 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:33 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:33,840 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:33,840 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:33,840 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:33,840 [DEBUG] response_closed.started
+2025-07-16 22:05:33,840 [DEBUG] response_closed.complete
+2025-07-16 22:05:34,568 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:34,573 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:34,574 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:34,575 [DEBUG] send_request_body.complete
+2025-07-16 22:05:34,575 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:34,586 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:34 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:34,587 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:34,588 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:34,590 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:34,590 [DEBUG] response_closed.started
+2025-07-16 22:05:34,591 [DEBUG] response_closed.complete
+2025-07-16 22:05:35,501 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:35,509 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:35,510 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:35,510 [DEBUG] send_request_body.complete
+2025-07-16 22:05:35,510 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:35,518 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:35 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:35,519 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:35,519 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:35,519 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:35,520 [DEBUG] response_closed.started
+2025-07-16 22:05:35,520 [DEBUG] response_closed.complete
+2025-07-16 22:05:36,499 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:36,502 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:36,506 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:36,508 [DEBUG] send_request_body.complete
+2025-07-16 22:05:36,509 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:36,523 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:36 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:36,524 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:36,524 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:36,525 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:36,525 [DEBUG] response_closed.started
+2025-07-16 22:05:36,525 [DEBUG] response_closed.complete
+2025-07-16 22:05:37,481 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:37,485 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:37,486 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:37,488 [DEBUG] send_request_body.complete
+2025-07-16 22:05:37,488 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:37,494 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:37 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:37,495 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:37,497 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:37,497 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:37,498 [DEBUG] response_closed.started
+2025-07-16 22:05:37,498 [DEBUG] response_closed.complete
+2025-07-16 22:05:38,484 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:38,485 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:38,486 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:38,486 [DEBUG] send_request_body.complete
+2025-07-16 22:05:38,486 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:38,499 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:38 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:38,500 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:38,500 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:38,500 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:38,501 [DEBUG] response_closed.started
+2025-07-16 22:05:38,501 [DEBUG] response_closed.complete
+2025-07-16 22:05:38,966 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:38,967 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:38,968 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:38,968 [DEBUG] send_request_body.complete
+2025-07-16 22:05:38,968 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:38,977 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:38 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:38,977 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:38,977 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:38,977 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:38,977 [DEBUG] response_closed.started
+2025-07-16 22:05:38,977 [DEBUG] response_closed.complete
+2025-07-16 22:05:39,531 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:39,532 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:39,533 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:39,534 [DEBUG] send_request_body.complete
+2025-07-16 22:05:39,534 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:39,549 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:39 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:39,551 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:39,551 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:39,552 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:39,552 [DEBUG] response_closed.started
+2025-07-16 22:05:39,553 [DEBUG] response_closed.complete
+2025-07-16 22:05:40,489 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:40,490 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:40,490 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:40,490 [DEBUG] send_request_body.complete
+2025-07-16 22:05:40,490 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:40,499 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:40 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:40,499 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:40,499 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:40,499 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:40,500 [DEBUG] response_closed.started
+2025-07-16 22:05:40,500 [DEBUG] response_closed.complete
+2025-07-16 22:05:41,554 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:41,555 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:41,556 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:41,556 [DEBUG] send_request_body.complete
+2025-07-16 22:05:41,556 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:41,564 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:41 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:41,566 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:41,568 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:41,568 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:41,568 [DEBUG] response_closed.started
+2025-07-16 22:05:41,568 [DEBUG] response_closed.complete
+2025-07-16 22:05:42,476 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:42,477 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:42,477 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:42,477 [DEBUG] send_request_body.complete
+2025-07-16 22:05:42,477 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:42,502 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:42 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:42,503 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:42,503 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:42,504 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:42,504 [DEBUG] response_closed.started
+2025-07-16 22:05:42,504 [DEBUG] response_closed.complete
+2025-07-16 22:05:43,488 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:43,489 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:43,489 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:43,489 [DEBUG] send_request_body.complete
+2025-07-16 22:05:43,489 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:43,502 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:43 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:43,503 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:43,504 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:43,504 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:43,504 [DEBUG] response_closed.started
+2025-07-16 22:05:43,505 [DEBUG] response_closed.complete
+2025-07-16 22:05:44,493 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:44,498 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:44,500 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:44,500 [DEBUG] send_request_body.complete
+2025-07-16 22:05:44,500 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:44,508 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:44 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:44,509 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:44,509 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:44,510 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:44,510 [DEBUG] response_closed.started
+2025-07-16 22:05:44,510 [DEBUG] response_closed.complete
+2025-07-16 22:05:45,483 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:45,484 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:45,484 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:45,484 [DEBUG] send_request_body.complete
+2025-07-16 22:05:45,484 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:45,492 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:45 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:45,492 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:45,492 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:45,492 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:45,492 [DEBUG] response_closed.started
+2025-07-16 22:05:45,493 [DEBUG] response_closed.complete
+2025-07-16 22:05:46,481 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:46,482 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:46,483 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:46,483 [DEBUG] send_request_body.complete
+2025-07-16 22:05:46,484 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:46,490 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:46 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:46,491 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:46,491 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:46,491 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:46,491 [DEBUG] response_closed.started
+2025-07-16 22:05:46,491 [DEBUG] response_closed.complete
+2025-07-16 22:05:47,492 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:47,494 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:47,494 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:47,495 [DEBUG] send_request_body.complete
+2025-07-16 22:05:47,496 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:47,501 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:47 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:47,502 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:47,502 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:47,502 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:47,502 [DEBUG] response_closed.started
+2025-07-16 22:05:47,502 [DEBUG] response_closed.complete
+2025-07-16 22:05:48,480 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:48,481 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:48,481 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:48,482 [DEBUG] send_request_body.complete
+2025-07-16 22:05:48,483 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:48,489 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:48 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:48,491 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:48,492 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:48,492 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:48,492 [DEBUG] response_closed.started
+2025-07-16 22:05:48,493 [DEBUG] response_closed.complete
+2025-07-16 22:05:49,487 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:49,490 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:49,491 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:49,492 [DEBUG] send_request_body.complete
+2025-07-16 22:05:49,493 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:49,503 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:49 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:49,503 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:49,504 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:49,504 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:49,504 [DEBUG] response_closed.started
+2025-07-16 22:05:49,504 [DEBUG] response_closed.complete
+2025-07-16 22:05:50,486 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:50,486 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:50,487 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:50,487 [DEBUG] send_request_body.complete
+2025-07-16 22:05:50,487 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:50,494 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:50 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:50,495 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:50,496 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:50,496 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:50,497 [DEBUG] response_closed.started
+2025-07-16 22:05:50,497 [DEBUG] response_closed.complete
+2025-07-16 22:05:51,486 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:51,486 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:51,487 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:51,487 [DEBUG] send_request_body.complete
+2025-07-16 22:05:51,487 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:51,495 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:51 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:51,496 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:51,497 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:51,497 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:51,497 [DEBUG] response_closed.started
+2025-07-16 22:05:51,497 [DEBUG] response_closed.complete
+2025-07-16 22:05:52,964 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:52,967 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:52,967 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:52,968 [DEBUG] send_request_body.complete
+2025-07-16 22:05:52,968 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:52,975 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:52 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:52,978 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:52,980 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:52,981 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:52,982 [DEBUG] response_closed.started
+2025-07-16 22:05:52,982 [DEBUG] response_closed.complete
+2025-07-16 22:05:53,977 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:53,980 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:53,982 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:53,983 [DEBUG] send_request_body.complete
+2025-07-16 22:05:53,983 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:53,992 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:53 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:53,993 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:53,994 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:53,995 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:53,995 [DEBUG] response_closed.started
+2025-07-16 22:05:53,995 [DEBUG] response_closed.complete
+2025-07-16 22:05:54,969 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:54,971 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:54,972 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:54,974 [DEBUG] send_request_body.complete
+2025-07-16 22:05:54,974 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:54,989 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:54 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:54,991 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:54,992 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:54,993 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:54,993 [DEBUG] response_closed.started
+2025-07-16 22:05:54,994 [DEBUG] response_closed.complete
+2025-07-16 22:05:59,346 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:59,347 [DEBUG] send_request_headers.complete
+2025-07-16 22:05:59,347 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:05:59,348 [DEBUG] send_request_body.complete
+2025-07-16 22:05:59,349 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:05:59,354 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:35:59 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:05:59,355 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:05:59,355 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:05:59,355 [DEBUG] receive_response_body.complete
+2025-07-16 22:05:59,355 [DEBUG] response_closed.started
+2025-07-16 22:05:59,355 [DEBUG] response_closed.complete
+2025-07-16 22:06:00,117 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:00,120 [DEBUG] send_request_headers.complete
+2025-07-16 22:06:00,121 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:06:00,123 [DEBUG] send_request_body.complete
+2025-07-16 22:06:00,124 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:00,152 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:36:00 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:06:00,154 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:06:00,155 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:06:00,156 [DEBUG] receive_response_body.complete
+2025-07-16 22:06:00,156 [DEBUG] response_closed.started
+2025-07-16 22:06:00,156 [DEBUG] response_closed.complete
+2025-07-16 22:06:02,424 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:02,425 [DEBUG] send_request_headers.complete
+2025-07-16 22:06:02,425 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:06:02,425 [DEBUG] send_request_body.complete
+2025-07-16 22:06:02,426 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:02,430 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:36:02 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:06:02,432 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:06:02,433 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:06:02,433 [DEBUG] receive_response_body.complete
+2025-07-16 22:06:02,433 [DEBUG] response_closed.started
+2025-07-16 22:06:02,434 [DEBUG] response_closed.complete
+2025-07-16 22:06:03,071 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:03,072 [DEBUG] send_request_headers.complete
+2025-07-16 22:06:03,072 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:06:03,072 [DEBUG] send_request_body.complete
+2025-07-16 22:06:03,072 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:03,080 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:36:03 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:06:03,080 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:06:03,080 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:06:03,080 [DEBUG] receive_response_body.complete
+2025-07-16 22:06:03,080 [DEBUG] response_closed.started
+2025-07-16 22:06:03,080 [DEBUG] response_closed.complete
+2025-07-16 22:06:05,588 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:05,590 [DEBUG] send_request_headers.complete
+2025-07-16 22:06:05,592 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:06:05,593 [DEBUG] send_request_body.complete
+2025-07-16 22:06:05,593 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:05,595 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:36:05 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:06:05,596 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:06:05,597 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:06:05,599 [DEBUG] receive_response_body.complete
+2025-07-16 22:06:05,599 [DEBUG] response_closed.started
+2025-07-16 22:06:05,600 [DEBUG] response_closed.complete
+2025-07-16 22:06:06,797 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:06,799 [DEBUG] send_request_headers.complete
+2025-07-16 22:06:06,800 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:06:06,801 [DEBUG] send_request_body.complete
+2025-07-16 22:06:06,802 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:06,808 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:36:06 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:06:06,809 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:06:06,810 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:06:06,811 [DEBUG] receive_response_body.complete
+2025-07-16 22:06:06,813 [DEBUG] response_closed.started
+2025-07-16 22:06:06,813 [DEBUG] response_closed.complete
+2025-07-16 22:06:07,974 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:07,975 [DEBUG] send_request_headers.complete
+2025-07-16 22:06:07,976 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:06:07,977 [DEBUG] send_request_body.complete
+2025-07-16 22:06:07,977 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:07,982 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:36:07 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:06:07,982 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:06:07,983 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:06:07,983 [DEBUG] receive_response_body.complete
+2025-07-16 22:06:07,983 [DEBUG] response_closed.started
+2025-07-16 22:06:07,983 [DEBUG] response_closed.complete
+2025-07-16 22:06:08,984 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:08,989 [DEBUG] send_request_headers.complete
+2025-07-16 22:06:08,989 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:06:08,990 [DEBUG] send_request_body.complete
+2025-07-16 22:06:08,990 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:08,993 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:36:08 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:06:08,994 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:06:08,994 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:06:08,994 [DEBUG] receive_response_body.complete
+2025-07-16 22:06:08,994 [DEBUG] response_closed.started
+2025-07-16 22:06:08,994 [DEBUG] response_closed.complete
+2025-07-16 22:06:10,155 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:10,157 [DEBUG] send_request_headers.complete
+2025-07-16 22:06:10,158 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:06:10,159 [DEBUG] send_request_body.complete
+2025-07-16 22:06:10,160 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:06:10,165 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:36:10 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:06:10,166 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:06:10,166 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:06:10,167 [DEBUG] receive_response_body.complete
+2025-07-16 22:06:10,167 [DEBUG] response_closed.started
+2025-07-16 22:06:10,167 [DEBUG] response_closed.complete
+2025-07-16 22:12:13,373 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:12:13,374 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000237FC907E00>
+2025-07-16 22:12:13,374 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:13,375 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:13,375 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:13,375 [DEBUG] send_request_body.complete
+2025-07-16 22:12:13,375 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:13,379 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:13 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:13,380 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:13,380 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:13,380 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:13,380 [DEBUG] response_closed.started
+2025-07-16 22:12:13,380 [DEBUG] response_closed.complete
+2025-07-16 22:12:14,592 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:14,592 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:14,593 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:14,594 [DEBUG] send_request_body.complete
+2025-07-16 22:12:14,594 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:14,604 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:14 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:14,604 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:14,605 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:14,605 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:14,605 [DEBUG] response_closed.started
+2025-07-16 22:12:14,605 [DEBUG] response_closed.complete
+2025-07-16 22:12:15,429 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:15,430 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:15,431 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:15,431 [DEBUG] send_request_body.complete
+2025-07-16 22:12:15,432 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:15,436 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:15 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:15,436 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:15,436 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:15,436 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:15,436 [DEBUG] response_closed.started
+2025-07-16 22:12:15,436 [DEBUG] response_closed.complete
+2025-07-16 22:12:15,585 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:15,586 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:15,586 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:15,586 [DEBUG] send_request_body.complete
+2025-07-16 22:12:15,586 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:15,590 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:15 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:15,590 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:15,590 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:15,590 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:15,590 [DEBUG] response_closed.started
+2025-07-16 22:12:15,590 [DEBUG] response_closed.complete
+2025-07-16 22:12:16,690 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:16,691 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:16,692 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:16,692 [DEBUG] send_request_body.complete
+2025-07-16 22:12:16,692 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:16,698 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:16 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:16,698 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:16,698 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:16,698 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:16,698 [DEBUG] response_closed.started
+2025-07-16 22:12:16,699 [DEBUG] response_closed.complete
+2025-07-16 22:12:17,599 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:17,599 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:17,600 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:17,600 [DEBUG] send_request_body.complete
+2025-07-16 22:12:17,601 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:17,609 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:17 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:17,610 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:17,610 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:17,611 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:17,611 [DEBUG] response_closed.started
+2025-07-16 22:12:17,611 [DEBUG] response_closed.complete
+2025-07-16 22:12:18,611 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:18,613 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:18,614 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:18,615 [DEBUG] send_request_body.complete
+2025-07-16 22:12:18,615 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:18,622 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:18 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:18,623 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:18,623 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:18,624 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:18,624 [DEBUG] response_closed.started
+2025-07-16 22:12:18,624 [DEBUG] response_closed.complete
+2025-07-16 22:12:19,584 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:19,585 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:19,586 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:19,586 [DEBUG] send_request_body.complete
+2025-07-16 22:12:19,586 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:19,590 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:19 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:19,590 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:19,590 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:19,590 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:19,590 [DEBUG] response_closed.started
+2025-07-16 22:12:19,590 [DEBUG] response_closed.complete
+2025-07-16 22:12:20,969 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:20,971 [DEBUG] send_request_headers.complete
+2025-07-16 22:12:20,971 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:12:20,972 [DEBUG] send_request_body.complete
+2025-07-16 22:12:20,972 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:12:20,980 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:42:20 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:12:20,980 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:12:20,981 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:12:20,982 [DEBUG] receive_response_body.complete
+2025-07-16 22:12:20,982 [DEBUG] response_closed.started
+2025-07-16 22:12:20,982 [DEBUG] response_closed.complete
+2025-07-16 22:14:02,914 [DEBUG] connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-07-16 22:14:02,915 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000018A41297E00>
+2025-07-16 22:14:02,916 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:02,917 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:02,917 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:02,917 [DEBUG] send_request_body.complete
+2025-07-16 22:14:02,918 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:02,926 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:02 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:02,927 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:02,928 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:02,928 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:02,929 [DEBUG] response_closed.started
+2025-07-16 22:14:02,929 [DEBUG] response_closed.complete
+2025-07-16 22:14:04,958 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:04,958 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:04,958 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:04,959 [DEBUG] send_request_body.complete
+2025-07-16 22:14:04,959 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:04,964 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:04 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:04,964 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:04,964 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:04,965 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:04,965 [DEBUG] response_closed.started
+2025-07-16 22:14:04,965 [DEBUG] response_closed.complete
+2025-07-16 22:14:05,979 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:05,980 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:05,980 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:05,980 [DEBUG] send_request_body.complete
+2025-07-16 22:14:05,980 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:05,986 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:05 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:05,986 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:05,986 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:05,986 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:05,987 [DEBUG] response_closed.started
+2025-07-16 22:14:05,987 [DEBUG] response_closed.complete
+2025-07-16 22:14:06,966 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:06,967 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:06,967 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:06,968 [DEBUG] send_request_body.complete
+2025-07-16 22:14:06,969 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:06,981 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:06 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:06,982 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:06,982 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:06,982 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:06,982 [DEBUG] response_closed.started
+2025-07-16 22:14:06,982 [DEBUG] response_closed.complete
+2025-07-16 22:14:07,961 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:07,962 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:07,962 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:07,962 [DEBUG] send_request_body.complete
+2025-07-16 22:14:07,963 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:07,969 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:07 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:07,970 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:07,970 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:07,971 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:07,971 [DEBUG] response_closed.started
+2025-07-16 22:14:07,971 [DEBUG] response_closed.complete
+2025-07-16 22:14:08,958 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:08,959 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:08,959 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:08,960 [DEBUG] send_request_body.complete
+2025-07-16 22:14:08,960 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:08,968 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:08 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:08,969 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:08,969 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:08,969 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:08,969 [DEBUG] response_closed.started
+2025-07-16 22:14:08,969 [DEBUG] response_closed.complete
+2025-07-16 22:14:09,947 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:09,947 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:09,948 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:09,948 [DEBUG] send_request_body.complete
+2025-07-16 22:14:09,948 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:09,951 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:09 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:09,952 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:09,952 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:09,952 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:09,952 [DEBUG] response_closed.started
+2025-07-16 22:14:09,952 [DEBUG] response_closed.complete
+2025-07-16 22:14:10,443 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:10,444 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:10,446 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:10,446 [DEBUG] send_request_body.complete
+2025-07-16 22:14:10,447 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:10,455 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:10 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:10,456 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:10,456 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:10,456 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:10,456 [DEBUG] response_closed.started
+2025-07-16 22:14:10,456 [DEBUG] response_closed.complete
+2025-07-16 22:14:11,436 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:11,437 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:11,438 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:11,438 [DEBUG] send_request_body.complete
+2025-07-16 22:14:11,439 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:11,446 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:11 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:11,446 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:11,447 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:11,447 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:11,447 [DEBUG] response_closed.started
+2025-07-16 22:14:11,447 [DEBUG] response_closed.complete
+2025-07-16 22:14:12,957 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:12,959 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:12,960 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:12,961 [DEBUG] send_request_body.complete
+2025-07-16 22:14:12,962 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:12,975 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:12 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:12,977 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:12,977 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:12,978 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:12,979 [DEBUG] response_closed.started
+2025-07-16 22:14:12,979 [DEBUG] response_closed.complete
+2025-07-16 22:14:13,954 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:13,956 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:13,957 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:13,957 [DEBUG] send_request_body.complete
+2025-07-16 22:14:13,958 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:13,965 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:13 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:13,966 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:13,966 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:13,966 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:13,967 [DEBUG] response_closed.started
+2025-07-16 22:14:13,967 [DEBUG] response_closed.complete
+2025-07-16 22:14:14,963 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:14,964 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:14,964 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:14,965 [DEBUG] send_request_body.complete
+2025-07-16 22:14:14,965 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:14,972 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:14 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:14,972 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:14,973 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:14,973 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:14,973 [DEBUG] response_closed.started
+2025-07-16 22:14:14,973 [DEBUG] response_closed.complete
+2025-07-16 22:14:15,953 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:15,954 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:15,954 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:15,954 [DEBUG] send_request_body.complete
+2025-07-16 22:14:15,954 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:15,960 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:15 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:15,960 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:15,960 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:15,960 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:15,960 [DEBUG] response_closed.started
+2025-07-16 22:14:15,960 [DEBUG] response_closed.complete
+2025-07-16 22:14:16,951 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:16,952 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:16,952 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:16,952 [DEBUG] send_request_body.complete
+2025-07-16 22:14:16,952 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:16,959 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:16 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:16,960 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:16,960 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:16,960 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:16,960 [DEBUG] response_closed.started
+2025-07-16 22:14:16,961 [DEBUG] response_closed.complete
+2025-07-16 22:14:17,962 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:17,963 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:17,963 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:17,963 [DEBUG] send_request_body.complete
+2025-07-16 22:14:17,963 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:17,971 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:17 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:17,971 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:17,972 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:17,972 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:17,972 [DEBUG] response_closed.started
+2025-07-16 22:14:17,972 [DEBUG] response_closed.complete
+2025-07-16 22:14:18,498 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:18,499 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:18,499 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:18,499 [DEBUG] send_request_body.complete
+2025-07-16 22:14:18,499 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:18,510 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:18 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:18,510 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:18,511 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:18,511 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:18,511 [DEBUG] response_closed.started
+2025-07-16 22:14:18,511 [DEBUG] response_closed.complete
+2025-07-16 22:14:19,289 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:19,289 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:19,289 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:19,290 [DEBUG] send_request_body.complete
+2025-07-16 22:14:19,290 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:19,294 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:19 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:19,294 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:19,294 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:19,295 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:19,295 [DEBUG] response_closed.started
+2025-07-16 22:14:19,295 [DEBUG] response_closed.complete
+2025-07-16 22:14:19,434 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:19,434 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:19,434 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:19,435 [DEBUG] send_request_body.complete
+2025-07-16 22:14:19,435 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:19,438 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:19 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:19,438 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:19,438 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:19,438 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:19,438 [DEBUG] response_closed.started
+2025-07-16 22:14:19,439 [DEBUG] response_closed.complete
+2025-07-16 22:14:20,961 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:20,961 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:20,961 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:20,962 [DEBUG] send_request_body.complete
+2025-07-16 22:14:20,962 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:20,966 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:20 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:20,967 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:20,967 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:20,968 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:20,968 [DEBUG] response_closed.started
+2025-07-16 22:14:20,968 [DEBUG] response_closed.complete
+2025-07-16 22:14:21,964 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:21,965 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:21,966 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:21,966 [DEBUG] send_request_body.complete
+2025-07-16 22:14:21,966 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:21,976 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:21 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:21,976 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:21,977 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:21,977 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:21,977 [DEBUG] response_closed.started
+2025-07-16 22:14:21,977 [DEBUG] response_closed.complete
+2025-07-16 22:14:22,634 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:22,635 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:22,635 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:22,635 [DEBUG] send_request_body.complete
+2025-07-16 22:14:22,637 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:22,746 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:22 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:22,747 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:22,747 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:22,748 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:22,748 [DEBUG] response_closed.started
+2025-07-16 22:14:22,748 [DEBUG] response_closed.complete
+2025-07-16 22:14:23,960 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:23,961 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:23,961 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:23,961 [DEBUG] send_request_body.complete
+2025-07-16 22:14:23,962 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:23,969 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:23 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:23,970 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:23,971 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:23,971 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:23,971 [DEBUG] response_closed.started
+2025-07-16 22:14:23,971 [DEBUG] response_closed.complete
+2025-07-16 22:14:24,956 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:24,957 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:24,958 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:24,958 [DEBUG] send_request_body.complete
+2025-07-16 22:14:24,959 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:24,965 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:24 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:24,966 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:24,966 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:24,967 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:24,967 [DEBUG] response_closed.started
+2025-07-16 22:14:24,967 [DEBUG] response_closed.complete
+2025-07-16 22:14:25,800 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:25,801 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:25,801 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:25,802 [DEBUG] send_request_body.complete
+2025-07-16 22:14:25,803 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:25,817 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:25 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:25,818 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:25,819 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:25,819 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:25,819 [DEBUG] response_closed.started
+2025-07-16 22:14:25,819 [DEBUG] response_closed.complete
+2025-07-16 22:14:26,432 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:26,432 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:26,433 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:26,433 [DEBUG] send_request_body.complete
+2025-07-16 22:14:26,433 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:26,437 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:26 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:26,437 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:26,437 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:26,438 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:26,438 [DEBUG] response_closed.started
+2025-07-16 22:14:26,438 [DEBUG] response_closed.complete
+2025-07-16 22:14:27,438 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:27,439 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:27,440 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:27,440 [DEBUG] send_request_body.complete
+2025-07-16 22:14:27,440 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:27,446 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:27 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:27,447 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:27,447 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:27,448 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:27,448 [DEBUG] response_closed.started
+2025-07-16 22:14:27,448 [DEBUG] response_closed.complete
+2025-07-16 22:14:28,439 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:28,441 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:28,442 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:28,443 [DEBUG] send_request_body.complete
+2025-07-16 22:14:28,443 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:28,450 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:28 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:28,451 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:28,451 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:28,452 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:28,452 [DEBUG] response_closed.started
+2025-07-16 22:14:28,452 [DEBUG] response_closed.complete
+2025-07-16 22:14:29,435 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:29,437 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:29,437 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:29,439 [DEBUG] send_request_body.complete
+2025-07-16 22:14:29,440 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:29,448 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:29 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:29,449 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:29,449 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:29,450 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:29,450 [DEBUG] response_closed.started
+2025-07-16 22:14:29,450 [DEBUG] response_closed.complete
+2025-07-16 22:14:30,443 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:30,444 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:30,444 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:30,444 [DEBUG] send_request_body.complete
+2025-07-16 22:14:30,445 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:30,455 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:30 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:30,455 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:30,455 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:30,455 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:30,455 [DEBUG] response_closed.started
+2025-07-16 22:14:30,456 [DEBUG] response_closed.complete
+2025-07-16 22:14:31,433 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:31,434 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:31,434 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:31,435 [DEBUG] send_request_body.complete
+2025-07-16 22:14:31,437 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:31,445 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:31 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:31,447 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:31,447 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:31,448 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:31,448 [DEBUG] response_closed.started
+2025-07-16 22:14:31,449 [DEBUG] response_closed.complete
+2025-07-16 22:14:32,432 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:32,433 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:32,433 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:32,434 [DEBUG] send_request_body.complete
+2025-07-16 22:14:32,434 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:32,440 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:32 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:32,441 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:32,441 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:32,442 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:32,442 [DEBUG] response_closed.started
+2025-07-16 22:14:32,442 [DEBUG] response_closed.complete
+2025-07-16 22:14:33,450 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:33,451 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:33,452 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:33,453 [DEBUG] send_request_body.complete
+2025-07-16 22:14:33,454 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:33,464 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:33 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:33,465 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:33,465 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:33,466 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:33,466 [DEBUG] response_closed.started
+2025-07-16 22:14:33,466 [DEBUG] response_closed.complete
+2025-07-16 22:14:34,448 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:34,450 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:34,451 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:34,452 [DEBUG] send_request_body.complete
+2025-07-16 22:14:34,454 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:34,463 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:34 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:34,463 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:34,464 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:34,464 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:34,464 [DEBUG] response_closed.started
+2025-07-16 22:14:34,464 [DEBUG] response_closed.complete
+2025-07-16 22:14:35,445 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:35,447 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:35,448 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:35,448 [DEBUG] send_request_body.complete
+2025-07-16 22:14:35,449 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:35,454 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:35 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:35,455 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:35,455 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:35,455 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:35,455 [DEBUG] response_closed.started
+2025-07-16 22:14:35,455 [DEBUG] response_closed.complete
+2025-07-16 22:14:36,429 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:36,430 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:36,431 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:36,431 [DEBUG] send_request_body.complete
+2025-07-16 22:14:36,431 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:36,434 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:36 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:36,434 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:36,435 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:36,435 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:36,435 [DEBUG] response_closed.started
+2025-07-16 22:14:36,435 [DEBUG] response_closed.complete
+2025-07-16 22:14:37,960 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:37,961 [DEBUG] send_request_headers.complete
+2025-07-16 22:14:37,961 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2025-07-16 22:14:37,961 [DEBUG] send_request_body.complete
+2025-07-16 22:14:37,961 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2025-07-16 22:14:37,964 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 16 Jul 2025 16:44:37 GMT'), (b'Content-Length', b'686')])
+2025-07-16 22:14:37,965 [INFO] HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-07-16 22:14:37,965 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2025-07-16 22:14:37,965 [DEBUG] receive_response_body.complete
+2025-07-16 22:14:37,965 [DEBUG] response_closed.started
+2025-07-16 22:14:37,965 [DEBUG] response_closed.complete

@@ -1,0 +1,94 @@
+12345
+Unknown emotion: unknown
+[DEBUG] generate_npc_dialogue called with emotion='neutral', context='', dialogue_type='None', personality='None'
+[DEBUG] Ollama prompt generated:
+'''You are an AI assistant tasked with generating a natural and empathetic dialogue response.             The user is currently expressing neutral emotion.
+            Your response should be warm and welcoming in tone, casual and approachable in style, and use simple and clear vocabulary.
+            The dialogue type requested is curiosity.
+            
+            Context: 
+            
+            Recent NPC responses: None.
+            
+            Instructions: Generate a new, unique, and creative dialogue response (curiosity) that acknowledges the user's emotion and the given context. \
+            Do not repeat any previous responses. Use a different sentence structure or vocabulary than before. Be engaging and natural. \
+            Keep the response to 1-2 sentences.
+            
+            Dialogue:'''
+[DEBUG] Ollama raw response: {'response': 'First response'}
+[DEBUG] Generated dialogue: 'First response'
+[DEBUG] generate_npc_dialogue called with emotion='happy', context='', dialogue_type='None', personality='None'
+[DEBUG] Ollama prompt generated:
+'''You are an AI assistant tasked with generating a natural and empathetic dialogue response.             The user is currently expressing happy emotion.
+            Your response should be cheerful and energetic in tone, fun and lighthearted in style, and use colorful and expressive vocabulary.
+            The dialogue type requested is joke.
+            
+            Context: 
+            
+            Recent NPC responses: None.
+            
+            Instructions: Generate a new, unique, and creative dialogue response (joke) that acknowledges the user's emotion and the given context. \
+            Do not repeat any previous responses. Use a different sentence structure or vocabulary than before. Be engaging and natural. \
+            Keep the response to 1-2 sentences.
+            
+            Dialogue:'''
+[DEBUG] Ollama raw response: {'response': 'Second response'}
+[DEBUG] Generated dialogue: 'Second response'
+[DEBUG] generate_npc_dialogue called with emotion='neutral', context='meeting a new person', dialogue_type='None', personality='None'
+[DEBUG] Ollama prompt generated:
+'''You are an AI assistant tasked with generating a natural and empathetic dialogue response.             The user is currently expressing neutral emotion.
+            Your response should be involving and interactive in tone, engaging and participatory in style, and use interactive and clear vocabulary.
+            The dialogue type requested is observation.
+            
+            Context: meeting a new person
+            
+            Recent NPC responses: None.
+            
+            Instructions: Generate a new, unique, and creative dialogue response (observation) that acknowledges the user's emotion and the given context. \
+            Do not repeat any previous responses. Use a different sentence structure or vocabulary than before. Be engaging and natural. \
+            Keep the response to 1-2 sentences.
+            
+            Dialogue:'''
+[DEBUG] Ollama raw response: {'response': 'Hello there!'}
+[DEBUG] Generated dialogue: 'Hello there!'
+[DEBUG] generate_npc_dialogue called with emotion='neutral', context='', dialogue_type='None', personality='None'
+[ERROR] Ollama model not available, cannot generate dialogue.
+Using device: cuda
+Using device: cuda
+Using device: cuda
+[DEBUG] HAARCASCADE_PATH used: D:\Conference\cascades\haarcascade_frontalface_default.xml
+Using device: cuda
+[DEBUG] HAARCASCADE_PATH used: D:\Conference\cascades\haarcascade_frontalface_default.xml
+Using device: cuda
+Using device: cuda
+[DEBUG] HAARCASCADE_PATH used: D:\Conference\cascades\haarcascade_frontalface_default.xml
+[DEBUG] Facial Emotion Result: {'emotion': 'neutral', 'confidence': 0.1, 'probabilities': array([0.1, 0.1, 0.1, 0.1, 0.4, 0.1, 0.1])}
+[DEBUG] Audio Emotion Result: {'emotion': 'sad', 'confidence': 0.7, 'probabilities': array([0.1, 0.1, 0.1, 0.1, 0.1, 0.7, 0.1])}
+[DEBUG] Combined Emotion Result: {'emotion': 'sad', 'confidence': 0.7, 'probabilities': array([0.1, 0.1, 0.1, 0.1, 0.1, 0.7, 0.1])}
+[DEBUG] Before _should_generate_dialogue call. Dominant Emotion: sad, Confidence: 0.70
+[DEBUG] _should_generate_dialogue: First dialogue, returning True.
+[DEBUG] Generated dialogue: Mock Dialogue
+[DEBUG] Pushed update to queue: Emotion=sad, Dialogue='Mock Dialogue...'
+[DEBUG] HAARCASCADE_PATH used: D:\Conference\cascades\haarcascade_frontalface_default.xml
+[DEBUG] Facial Emotion Result: {'emotion': 'neutral', 'confidence': 0.1, 'probabilities': array([0.1, 0.1, 0.1, 0.1, 0.4, 0.1, 0.1])}
+[DEBUG] Audio Emotion Result: {'emotion': 'sad', 'confidence': 0.7, 'probabilities': array([0.1, 0.1, 0.1, 0.1, 0.1, 0.7, 0.1])}
+[DEBUG] Combined Emotion Result: {'emotion': 'sad', 'confidence': 0.7, 'probabilities': array([0.1, 0.1, 0.1, 0.1, 0.1, 0.7, 0.1])}
+[DEBUG] Before _should_generate_dialogue call. Dominant Emotion: sad, Confidence: 0.70
+[DEBUG] _should_generate_dialogue: Cooldown active. Returning False. Time elapsed: 0.04s
+[DEBUG] Pushed update to queue: Emotion=sad, Dialogue='...'
+Using device: cuda
+[DEBUG] Attempting to open webcam...
+[DEBUG] Webcam successfully opened.
+[DEBUG] Attempting to open audio stream...
+[DEBUG] Audio stream successfully opened.
+Real-time audio and video capture initialized.
+Using device: cuda
+[DEBUG] Attempting to open webcam...
+[DEBUG] Webcam successfully opened.
+[DEBUG] Attempting to open audio stream...
+[DEBUG] Audio stream successfully opened.
+Real-time audio and video capture initialized.
+Using device: cuda
+[DEBUG] _should_generate_dialogue: First dialogue, returning True.
+[DEBUG] _should_generate_dialogue: Cooldown active. Returning False. Time elapsed: 0.50s
+[DEBUG] _should_generate_dialogue: First dialogue, returning True.
