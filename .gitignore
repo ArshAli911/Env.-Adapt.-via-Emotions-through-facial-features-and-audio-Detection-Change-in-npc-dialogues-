@@ -7,3 +7,12 @@ venv/
 *.pt
 *.h5
 output/ 
+# Additional ignores
+logs/
+*.log
+*.png
+*.deb
+*.DS_Store
+Thumbs.db
+temp*
+# End of file 
